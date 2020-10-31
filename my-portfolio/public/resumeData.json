@@ -1,0 +1,140 @@
+{
+  "main": {
+    "name": "Tejaswini Helagalli Shivabasappa",
+    "occupation": "Student && ReactJS Developer",
+    "description": "Actively looking for an opportunity to work as a Full Stack React Developer/Intern",
+    "image": "teju.jpg",
+    "bio": "My name is Tejaswini. Currently I'm pursing master's in Electrical and computer engineering.",
+    "contactmessage": "Get in touch with me to receive further details",
+    "email": "tejugowda14@gmail.com",
+    "phone": "+1 8736882192",
+    "address": {
+      "street": "1505-1975 st laurent, blvd",
+      "city": "Ottawa",
+      "state": "Ontario",
+      "zip": "K1G 3S7"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/teju.gowda.1441",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/tejaswini-hs-16bb32118/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/tejaswini__gowda14/?hl=en",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/tejaswinihs14",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "University of Ottawa",
+        "degree": "Masters in Electrical and Computers Engineering",
+        "graduated": "ongoing",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Accenture",
+        "title": "Team Member && Associate software engineer",
+        "years": "November 2017 - July 2019",
+        "description": "Handeled many projects && ganied knowelge"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "python",
+        "level": "55%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Spotify Clone",
+        "category": "spotify-clone Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "spotify.png",
+        "url": "https://spotify-clone-4ee4f.web.app"
+      },
+     
+
+      {
+        "title": "Twitter clone",
+        "category": "twitter-clone(Reactjs,firebase)",
+        "image": "twitter.png",
+        "url": "https://twitter-clone-387b8.web.app/"
+      },
+
+      {
+        "title": "what's app clone",
+        "category": "what's app-clone(Reactjs,firebase)",
+        "image": "whats app.png",
+        "url": "https://whatsapp-clone-66f8a.web.app/"
+      },
+
+      {
+        "title": "Academic project",
+        "category": "Slay with us with reacjs",
+        "image": "Slay-with-us.png",
+        "url": "https://slay-with-us.web.app"
+      },
+
+      {
+        "title": "Academic project",
+        "category": "Slay with us with wordpress",
+        "image": "slaywithus.png",
+        "url": "https://slaywithus.wixsite.com/stylish"
+      }
+
+
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "She is multi-talented, reliable, creative, friendly, and has delivered above and beyond my expectations each and every time that I've worked with her. She is professional, a perfectionist, and just gets it - she understands the technical side of what is needed, but always sees the bigger picture..",
+        "user": "Ritesh.....Manager"
+      },
+      {
+        "text": "That Tejaswini must be one of the most brilliant & fast learner developers I've ever met! It is amazing that nobody has hired her yet for Full-time. Hey you, you should hire this girl, she may be fresh out of School and have zero on the job experience but I am confident that she will be one of your best developers in no time!",
+        "user": "Gagan Shetty... full stack developer"
+      }
+    ]
+  }
+}
